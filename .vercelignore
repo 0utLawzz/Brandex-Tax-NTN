@@ -1,0 +1,7 @@
+.git
+node_modules
+.env*
+OWNER-SETUP.txt
+verification
+supabase
+tests

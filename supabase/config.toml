@@ -1,0 +1,3 @@
+[functions.tax-documents]
+verify_jwt = false
+# The function validates the bearer token using Auth.getUser and checks live tax_members roles.

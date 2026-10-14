@@ -1,0 +1,1 @@
+revoke execute on function public.rls_auto_enable() from public,anon,authenticated; create policy tax_credentials_deny on tax_private.credentials for all to authenticated using(false) with check(false);
